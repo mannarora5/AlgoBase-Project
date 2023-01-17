@@ -5,7 +5,7 @@ import PathVisualiser from './components/PathVisualiser';
 function App() {
   return (
     <div className="App">
-      <PathVisualiser />
+      <PathVisualiser></PathVisualiser>
     </div>
   );
 }
